@@ -7,6 +7,10 @@ Installation
 -------
 The single file needed is right here on GitHub
 
-Sample
+Sample Code
 -------
 http://techdoba.com/products/jquery-dropdown-select/
+
+Running Demo
+-------
+http://jsfiddle.net/LAJVL/embedded/result/
